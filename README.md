@@ -20,7 +20,7 @@ Este projeto está em meio a constante desenvolvimento, e deverá seguir os pass
 - [ ] Simple Regression
 - [ ] ANN
 - [ ] Validation
-- [ ] Implementation Contex
+- [ ] Implementation Context 
 
 ## Contexto
 
