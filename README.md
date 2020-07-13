@@ -16,10 +16,10 @@ Este projeto está em meio a constante desenvolvimento, e deverá seguir os pass
 - [X] EDA inicial
 - [X] Feature engeneering
 - [X] Analise de Sentimentos - Reviews
-- [ ] Films Clustering
-- [ ] Simple Regression
+- [X] Films Clustering
+- [X] Simple Regression
 - [ ] ANN
-- [ ] Validation
+- [X] Validation
 - [ ] Implementation Context 
 
 ## Contexto
